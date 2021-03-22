@@ -1,0 +1,118 @@
+/* .logincard {
+  background-color: #fff;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
+}
+
+.firebaseui-idp-list {
+  margin: 0 !important;
+}
+.error {
+  font-size: 12px;
+  color: red;
+  margin-top: 3px;
+  position: absolute;
+}
+
+.firebaseui-info-bar.firebaseui-id-info-bar {
+  display: none;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+} */
+
+.error {
+  font-size: 12px;
+  color: red;
+  margin-top: 2px;
+  position: absolute;
+}
+
+body {
+  color: #00203fff;
+  background-color: #00203fff;
+  font-family: "Nunito Sans", sans-serif !important;
+}
+
+.bigbutton {
+  height: 46px;
+  background-color: #00203fff;
+  width: 100%;
+  margin-top: 14px;
+  border: 1px solid #00203fff;
+  color: #ffffff;
+  font-size: 15px;
+}
+
+.form-group {
+  position: relative;
+}
+
+.bigbutton:hover,
+.bigbutton:focus {
+  background-color: #ffffff;
+  color: #00203fff;
+  outline: none;
+}
+
+a {
+  color: #00203fff;
+}
+a:hover {
+  color: #3f3f3f;
+}
+
+.signup {
+  margin-top: 95px;
+}
+.fileInput {
+  border-bottom: 4px solid lightgray;
+  border-right: 4px solid lightgray;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  padding: 10px;
+  margin: 15px;
+  cursor: pointer;
+}
+.Toastify__close-button:hover,
+.Toastify__close-button:focus {
+  outline: none;
+}
+
+.Toastify__toast {
+  color: #00203fff !important;
+  background-color: #ffffff !important;
+}
+
+.Toastify__close-button {
+  color: red !important;
+}
+
+.modalforchangepass {
+  background-color: #00203fff;
+  color: #ffffff;
+  margin-top: auto;
+}
+
+/* home css  */
+
+.card {
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.12);
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 15px;
+}
+.card td {
+  vertical-align: middle;
+}
+
+.btn:focus,
+.btn:visited {
+  box-shadow: none !important;
+}
